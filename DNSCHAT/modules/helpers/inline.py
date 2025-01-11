@@ -8,7 +8,7 @@ START_BOT = [
     [
         InlineKeyboardButton(
             text="❖ ᴧᴅᴅ мᴇ ʙᴧʙʏ ❖",
-            url=f"https://t.me/{DNSCHAT.username}?startgroup=true",
+            url=f"https://t.me/{DTMCHAT.username}?startgroup=true",
         ),
     ],
     [
@@ -45,7 +45,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="• ᴧᴅᴅ мᴇ ʙᴧʙʏ •",
-            url=f"https://t.me/{DNSCHAT.username}?startgroup=true",
+            url=f"https://t.me/{DTMCHAT.username}?startgroup=true",
         ),
     ],
     [
@@ -123,7 +123,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="« ʜᴇʟᴘ »", url=f"https://t.me/{DNSCHAT.username}?start=help"
+            text="« ʜᴇʟᴘ »", url=f"https://t.me/{DTMCHAT.username}?start=help"
         ),
         InlineKeyboardButton(text="⦿ ᴄʟᴏsᴇ ⦿", callback_data="CLOSE"),
     ],
@@ -132,7 +132,7 @@ HELP_BUTN = [
 
 ABOUT_BTN = [
     [
-        InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/DNS_NETWORK"),
+        InlineKeyboardButton(text="🎄 sᴜᴘᴘᴏʀᴛ 🎄", url=f"https://t.me/SAREGAMA_MUSIC_SUPPORT"),
         InlineKeyboardButton(text="« ʜᴇʟᴘ »", callback_data="HELP"),
     ],
     [
@@ -140,7 +140,7 @@ ABOUT_BTN = [
         #   InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
     ],
     [
-        InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/Dns_Official_Channel"),
+        InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/SAREGAMA_MUSIC_UPDATE"),
         InlineKeyboardButton(text="⦿ ʙᴀᴄᴋ ⦿", callback_data="BACK"),
     ],
 ]

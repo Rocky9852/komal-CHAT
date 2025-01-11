@@ -16,19 +16,19 @@ START = """**
 ๏ ᴜᴘᴛɪᴍᴇ » {}
 
 ╔═════════════════╗
-║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/DTM_SUPPORT_GROUP)  
-║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/Rocky_dtm)                         
+║ ➻ ᴍʏ ʀᴇᴘᴏ ➪ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/SAREGAMA_MUSIC_SUPPORT)  
+║ ➻ ᴄʀᴇᴀᴛᴏʀ ➪ [✯ ᴏᴡɴᴇʀ ✯](https://t.me/s4_stranger_ll)                         
 ╚═════════════════╝
 **"""
 
 HELP_READ = f"""**
-Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/DTM_SUPPORT_GROUP).
+Cʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏʀᴍᴀᴛɪᴏɴ.  Iғ ʏᴏᴜ'ʀᴇ ғᴀᴄɪɴɢ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ʏᴏᴜ ᴄᴀɴ ᴀsᴋ ɪɴ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/SAREGAMA_MUSIC_SUPPORT).
 
 Aʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴄᴀɴ ʙᴇ ᴜsᴇᴅ ᴡɪᴛʜ: /**
 """
 
 TOOLS_DATA_READ = f"""**
-๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {DNSCHAT.mention}:
+๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {DTMCHAT.mention}:
 
 ➻ /start ᴛᴏ ᴡᴀᴋᴇ ᴜᴘ ᴛʜᴇ ʙᴏᴛ ᴀɴᴅ ʀᴇᴄᴇɪᴠᴇ ᴀ ᴡᴇʟᴄᴏᴍᴇ ᴍᴇssᴀɢᴇ!
 ──────────────
@@ -44,11 +44,11 @@ TOOLS_DATA_READ = f"""**
 ──────────────
 ➻ ᴜsᴇ /repo ᴛᴏ ɢᴇᴛ ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ᴛʜᴇ ʙᴏᴛ!
 ──────────────
-๏ ᴍᴀᴅᴇ ʙʏ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/Rocky_dtm) 💞**
+๏ ᴍᴀᴅᴇ ʙʏ ➪ [✯ ᴏᴡɴᴇʀ ✯](https://t.me/s4_stranger_ll) 💞**
 """
 
 CHATBOT_READ = f"""**
-๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {DNSCHAT.mention}:
+๏ ʜᴇʀᴇ ᴀʀᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅs ғᴏʀ {DTMCHAT.mention}:
 
 ➻ /chatbot - ᴏᴘᴇɴs ᴏᴘᴛɪᴏns ᴛᴏ ᴇɴᴀʙʟᴇ ᴏʀ ᴅɪsᴀʙʟᴇ ᴛʜᴇ ᴄʜᴀᴛʙᴏᴛ.
 ──────────────
@@ -58,10 +58,10 @@ CHATBOT_READ = f"""**
 ──────────────
 /status - ᴄʜᴇᴄᴋ ᴄʜᴀᴛʙᴏᴛ ᴀᴄᴛɪᴠᴇ ᴏʀ ɴᴏᴛ.
 ──────────────
-📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/Rocky_dtm) 💞**
+📡 ᴍᴀᴅᴇ ʙʏ ➪ [✯ ᴏᴡɴᴇʀ ✯](https://t.me/s4_stranger_ll) 💞**
 """
 
-SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{DNSCHAT.name}](https://t.me/{DNSCHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/DTM_SUPPORT_GROUP)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/DNS_NETWORK).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [ᴅɴs ✯ ᴏᴡɴᴇʀ](https://t.me/II_RAJPUT_SHIV_OP_II) 💞**||</b>"
+SOURCE_READ = f"**ʜᴇʏ, ᴛʜᴇ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ [{DNSCHAT.name}](https://t.me/{DNSCHAT.username}) ɪs ɢɪᴠᴇɴ ʙᴇʟᴏᴡ.**\n**ᴘʟᴇᴀsᴇ ғᴏʀᴋ ᴛʜᴇ ʀᴇᴘᴏ & ɢɪᴠᴇ ᴛʜᴇ sᴛᴀʀ ✯**\n**──────────────────**\n**ʜᴇʀᴇ ɪs ᴛʜᴇ [sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ](https://t.me/SAREGAMA_MUSIC_SUPPORT)**\n**──────────────────**\n**ɪғ ʏᴏᴜ ғᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ ᴛʜᴇɴ ᴄᴏɴᴛᴀᴄᴛ ᴀᴛ [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/SAREGAMA_MUSIC_SUPPORT).\n<b>||📡 ᴍᴀᴅᴇ ʙʏ ➪ [✯ ᴏᴡɴᴇʀ ✯](https://t.me/s4_stranger_ll) 💞**||</b>"
 
 ADMIN_READ = f"sᴏᴏɴ"
 

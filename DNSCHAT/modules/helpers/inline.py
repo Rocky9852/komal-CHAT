@@ -8,7 +8,7 @@ START_BOT = [
     [
         InlineKeyboardButton(
             text="❖ ᴧᴅᴅ мᴇ ʙᴧʙʏ ❖",
-            url=f"https://t.me/{DTMCHAT.username}?startgroup=true",
+            url=f"https://t.me/{DNSCHAT.username}?startgroup=true",
         ),
     ],
     [
@@ -45,7 +45,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="• ᴧᴅᴅ мᴇ ʙᴧʙʏ •",
-            url=f"https://t.me/{DTMCHAT.username}?startgroup=true",
+            url=f"https://t.me/{DNSCHAT.username}?startgroup=true",
         ),
     ],
     [
@@ -123,7 +123,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="« ʜᴇʟᴘ »", url=f"https://t.me/{DTMCHAT.username}?start=help"
+            text="« ʜᴇʟᴘ »", url=f"https://t.me/{DNSCHAT.username}?start=help"
         ),
         InlineKeyboardButton(text="⦿ ᴄʟᴏsᴇ ⦿", callback_data="CLOSE"),
     ],
